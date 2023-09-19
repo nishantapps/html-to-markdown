@@ -1,0 +1,11 @@
+{
+  "name": "@nimarkdown-to-html",
+  "version": "1.0.0-re-release",
+  "description": "This will help you to convert markdown files to htm webpage.",
+  "main": "module/src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "NishantApps",
+  "license": "MIT"
+}
